@@ -46,10 +46,11 @@
 </td>
 <td width="66%" valign="top">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=123yyh123&bg_color=0d1117&hide_border=true&custom_title=Contribution%20Activity&title_color=f5f5f7&color=8b949e&line=0a84ff&point=ffffff&area=true&area_color=0a84ff&radius=10">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=123yyh123&bg_color=ffffff&hide_border=true&custom_title=Contribution%20Activity&title_color=1f2328&color=59636e&line=0969da&point=1f2328&area=true&area_color=ddf4ff&radius=10">
-</picture>
+<b>▸&nbsp; CONTRIBUTIONS</b>
+
+<br><br>
+
+<img width="100%" src="https://ghchart.rshah.org/0a84ff/123yyh123" alt="123yyh123 contribution heatmap"/>
 
 <br><br>
 
